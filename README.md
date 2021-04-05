@@ -23,4 +23,4 @@ Our goal here would be to understand the evolution of Equation 1 over the domain
 
 The resulting evolution can be used for applications in fluid mechanics, nonlinear acoustics, gas dynamics, and traffic flow[*](https://en.wikipedia.org/wiki/Burgers%27_equation).
 
-[![Burgers' Solution]({https://github.com/zjwilliams20/fenics-problems/blob/main/burgers/burgers.png})]({https://github.com/zjwilliams20/fenics-problems/blob/main/burgers/burgers.mp4} "Link Title")
+[![](https://img.youtube.com/vi/oma4NlOp4C4/0.jpg)](https://www.youtube.com/watch?v=oma4NlOp4C4)
