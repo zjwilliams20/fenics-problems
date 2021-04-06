@@ -23,10 +23,14 @@ The resulting evolution can be used for applications in fluid mechanics, nonline
 
 [![Burgers' Equation](https://img.youtube.com/vi/zsyWq-99fFA/0.jpg)](https://www.youtube.com/watch?v=zsyWq-99fFA)
 
+
 ### Allen-Cahn Equation
 A similar framework can be applied to the Allen-Cahn Equation:
+
 [![Allen-Cahn Equation](https://img.youtube.com/vi/-rGxXzTWw9g/0.jpg)](https://www.youtube.com/watch?v=-rGxXzTWw9g)
+
 
 ### Cahn-Hilliard Equation
 As well as the Cahn-Hilliard Equation, which uses two separate equations coupled together in adjacent vector spaces.
+
 [![Cahn-Hilliard Equation](https://img.youtube.com/vi/oma4NlOp4C4/0.jpg)](https://www.youtube.com/watch?v=oma4NlOp4C4)
