@@ -17,10 +17,16 @@ Then Finite Element Analysis might be the tool for the job. In a nutshell, the p
 ## Examples
 ### Burgers Equation
 
-![](https://github.com/zjwilliams20/fenics-problems/blob/main/media/burgers.png)
-
-Our goal here would be to understand the evolution of Equation 1 over the domain -1 to 1, for one second, subject to the initial conditions specified by Equation 2, and the boundary conditions from Equation 3.
+![burgers](https://user-images.githubusercontent.com/57698676/113661063-09804380-966b-11eb-8a1c-092e647f168d.png)
 
 The resulting evolution can be used for applications in fluid mechanics, nonlinear acoustics, gas dynamics, and traffic flow[*](https://en.wikipedia.org/wiki/Burgers%27_equation).
 
-[![](https://img.youtube.com/vi/oma4NlOp4C4/0.jpg)](https://www.youtube.com/watch?v=oma4NlOp4C4)
+[![Burgers' Equation](https://img.youtube.com/vi/zsyWq-99fFA/0.jpg)](https://www.youtube.com/watch?v=zsyWq-99fFA)
+
+### Allen-Cahn Equation
+A similar framework can be applied to the Allen-Cahn Equation:
+[![Allen-Cahn Equation](https://img.youtube.com/vi/-rGxXzTWw9g/0.jpg)](https://www.youtube.com/watch?v=-rGxXzTWw9g)
+
+### Cahn-Hilliard Equation
+As well as the Cahn-Hilliard Equation, which uses two separate equations coupled together in adjacent vector spaces.
+[![Cahn-Hilliard Equation](https://img.youtube.com/vi/oma4NlOp4C4/0.jpg)](https://www.youtube.com/watch?v=oma4NlOp4C4)
